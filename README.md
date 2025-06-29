@@ -26,7 +26,7 @@
 * bash
 * java MultiTab
 * Siga as instruções no console:
-* text
+
 
 * === MULTI TAB ===
 * Digite um número Inteiro para gerar a tabuada: [insira um número]
@@ -39,10 +39,8 @@
 
 * 📝 Exemplo de Uso
 * Entrada:
-* text
 * Digite um número Inteiro para gerar a tabuada: 7
 * Saída:
-* text
 
 * Tabuada do 7:
 * ------------------
