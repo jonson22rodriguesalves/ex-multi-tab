@@ -57,7 +57,7 @@ Saída:
 
 text
 Tabuada do 7:
--------------------
+------------------
 7 x  1 =   7
 7 x  2 =  14
 7 x  3 =  21
@@ -68,7 +68,7 @@ Tabuada do 7:
 7 x  8 =  56
 7 x  9 =  63
 7 x 10 =  70
--------------------
+------------------
 📌 Melhorias Futuras
 Adicionar validação de entrada
 
